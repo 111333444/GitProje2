@@ -5,6 +5,7 @@ public class Okul {
 
     Ogrenci ogr1 = new Ogrenci();
 
+    ogr1.ad="ismet";
 
     }
 }
